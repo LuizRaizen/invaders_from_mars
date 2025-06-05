@@ -112,6 +112,13 @@ Este projeto está sob a licença MIT. Sinta-se livre para estudar, adaptar, con
 ## 🌌 Capturas de Tela (em breve)
 
 <!-- Adicione aqui imagens do gameplay, menu, efeitos visuais, etc. -->
+![Menu Principal](./img_1.jpg)
+
+> Tela do Menu Principal do jogo.
+
+![Tela de Gameplay](./img_2.jpg)
+
+> Gameplay do jogo.
 
 ---
 
